@@ -2,13 +2,25 @@
 
 # scarletsky
 
-**Roblox Full-Stack Developer**
+### Roblox Full-Stack Developer
 
-Luau · Game Systems · Backend Architecture · UI Development
+<img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
 
-[Roblox Profile](https://www.roblox.com/users/5192910846/profile) ·
-[Developer Forum](https://devforum.roblox.com/u/scarrletsky/) ·
-[Discord](https://discord.gg/tAwVhYTQ9s)
+<br><br>
+
+<a href="https://www.roblox.com/users/5192910846/profile">
+<img src="https://img.shields.io/badge/Roblox_Profile-000000?style=for-the-badge&logo=roblox&logoColor=white">
+</a>
+
+<a href="https://devforum.roblox.com/u/scarrletsky/">
+<img src="https://img.shields.io/badge/DevForum-00A2FF?style=for-the-badge&logo=roblox&logoColor=white">
+</a>
+
+<a href="https://discord.gg/tAwVhYTQ9s">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
 </div>
 
@@ -16,43 +28,46 @@ Luau · Game Systems · Backend Architecture · UI Development
 
 ## About
 
-Full-stack Roblox developer specializing in the development and maintenance of gameplay systems, client-server architecture, user interfaces, data management, and backend services.
+Roblox developer focused on full-stack development with Luau, gameplay systems, backend architecture and optimization.
 
-Projects I have worked on have collectively reached:
+Worked on experiences reaching:
 
-* **8B+ sessions**
-* **426.2K+ peak concurrent users**
+- **8B+ sessions**
+- **426K+ peak concurrent players**
 
-My primary focus is building secure, performant, and maintainable systems for live Roblox experiences.
+---
 
-## Expertise
+## Stack
 
-* Full-stack development with Luau
-* Gameplay and progression systems
-* Client-server architecture
-* Data persistence and player profiles
-* User interfaces and interactive menus
-* Monetization systems
-* Administrative and moderation tools
-* Server-side validation and exploit prevention
-* Performance optimization and debugging
-* Legacy codebase refactoring
-* Live project maintenance
+**Main**
+- Luau / Lua
+- Roblox Studio
+- GLua
+- C#
 
-## Additional Experience
+**Learning**
+- JavaScript
+- Python
+- HTML / CSS
 
-* 8+ years of GLua development for Garry’s Mod
-* C# development for the Rust game ecosystem
-* Automation and system integration
-* Codebase optimization and technical analysis
+---
 
-## Technologies
+## Experience
 
-**Primary:** Luau, Lua, Roblox Studio, GLua, C#
-**Currently studying:** JavaScript, Python, HTML, CSS
+- Full-stack Roblox development
+- Client-server systems
+- Data management
+- UI development
+- Performance optimization
+- Live project support
+- Garry's Mod development (8+ years)
 
-## Links
+---
 
-* [Roblox Developer Forum](https://devforum.roblox.com/u/scarrletsky/)
-* [Roblox Profile and Projects](https://www.roblox.com/users/5192910846/profile)
-* [Discord Community](https://discord.gg/tAwVhYTQ9s)
+<div align="center">
+
+<a href="https://github.com/scarletsky">
+<img src="https://komarev.com/ghpvc/?username=scarletsky&style=flat-square&color=blue">
+</a>
+
+</div>
